@@ -1,7 +1,10 @@
-# Getting Started with Create React App
+# React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+In this project I'll plug to api that I'am developping in [NestJS](https://nestjs.com/). source available [here](https://github.com/nickphury/introduction-to-nestjs).
+
+**Note** : the api is running in local :smiley:
 ## Available Scripts
 
 In the project directory, you can run:
