@@ -25,7 +25,8 @@
     "prettier-format": "prettier --config .prettierrc 'src/**/*.ts' --write",
     "storybook": "start-storybook -p 6006 -s public",
     "build-storybook": "build-storybook -s public",
-    "analyze": "source-map-explorer 'build/static/js/*.js'"
+    "analyze": "source-map-explorer 'build/static/js/*.js'",
+    "start:https": "HTTPS=true react-scripts start"
   },
   "eslintConfig": {
     "extends": [
